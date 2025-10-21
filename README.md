@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**J-WatS13/J-Wats13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Jack Watson! <br/><a </a> Jack's Portfolio!</a></h1>
 
-Here are some ideas to get you started:
+<h2>Cloud computing and cybersecurity Foundation degree projects:</h2>
+<b>A text adventure game, Rock Paper Scissors and Higher or lower all built with python in Pycharm to stregthen my programming skills</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <b>Text Adventure Game (Created with Pycharm)</b>
+  - [Belfast Zoo]()
+- <b>Rock, Paper, Scissors (Text Game)(Created with Pycharm)</b>
+  - [Rock, Paper, Scissors]()
+- <b>Higher Or Lower (Text Game)(Created with Pycharm)</b>
+  - [Higher Or Lower]()
+    
+<h2>Cisco Networking Academy Projects (Python)</h2>
+- <b>A turn-based Tic Tac Toe game against a simple computer opponent</b>
+- <b>Tic tac toe</b>
+  - [Tic Tac Toe]()
+
+<h2>Own Personal Projects</h2>
+- <b>Zombie Slayer (2D)</b>
+  - [Zomber SLayer (2D) (Personal Project)]()
+- <b>Zombie Strike (3D)</b>
+ - [Zombie Strike (3D) (In Progress)]()
+
 -->
