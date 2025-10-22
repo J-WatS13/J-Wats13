@@ -5,11 +5,11 @@
 <b>A text adventure game, Rock Paper Scissors and Higher or lower all built with python in Pycharm to stregthen my programming skills</b>
 
 - <b>Text Adventure Game (Created with Pycharm)</b>
-  - [Belfast Zoo]()
+  - [Belfast Zoo](https://github.com/J-WatS13/TextBasedAdventureGame)
 - <b>Rock, Paper, Scissors (Text Game)(Created with Pycharm)</b>
-  - [Rock, Paper, Scissors]()
+  - [Rock, Paper, Scissors](https://github.com/J-WatS13/RockPaperScissorsGame)
 - <b>Higher Or Lower (Text Game)(Created with Pycharm)</b>
-  - [Higher Or Lower]()
+  - [Higher Or Lower](https://github.com/J-WatS13/HigherOrLower-Game/tree/main)
     
 <h2>Cisco Networking Academy Projects (Python)</h2>
 - <b>A turn-based Tic Tac Toe game against a simple computer opponent</b>
