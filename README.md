@@ -19,7 +19,7 @@
 <h2>Own Personal Projects</h2>
 - <b>Zombie Slayer (2D)</b>
 
-  - [Zomber SLayer (2D) (Personal Project)]()
+  - [Zomber Slayer (2D) (Personal Project)]()
 
 
 -->
