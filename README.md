@@ -13,13 +13,13 @@
     
 <h2>Cisco Networking Academy Projects (Python)</h2>
 - <b>A turn-based Tic Tac Toe game against a simple computer opponent</b>
-- <b>Tic tac toe</b>
-  - [Tic Tac Toe](https://github.com/J-WatS13/TicTacToe-Game)
+
+- [Tic Tac Toe](https://github.com/J-WatS13/TicTacToe-Game)
 
 <h2>Own Personal Projects</h2>
 - <b>Zombie Slayer (2D)</b>
+
   - [Zomber SLayer (2D) (Personal Project)]()
-- <b>Zombie Strike (3D)</b>
- - [Zombie Strike (3D) (In Progress)]()
+
 
 -->
