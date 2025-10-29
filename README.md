@@ -17,9 +17,9 @@
 - [Tic Tac Toe](https://github.com/J-WatS13/TicTacToe-Game)
 
 <h2>Own Personal Projects</h2>
-- <b>Zombie Slayer (2D)</b>
+- <b>Monster Slayer (2D Platformer)</b>
 
-  - [Zomber Slayer (2D) (Personal Project)]()
+  - [Monster Slayer (2D) (Personal Project)](https://github.com/J-WatS13/MonsterSlayerGame/tree/main)
 
 
 -->
