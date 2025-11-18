@@ -10,7 +10,8 @@
   - [Rock, Paper, Scissors](https://github.com/J-WatS13/RockPaperScissorsGame)
 - <b>Higher Or Lower (Text Game)(Created with Pycharm)</b>
   - [Higher Or Lower](https://github.com/J-WatS13/HigherOrLower-Game/tree/main)
-    
+- <b>Library Membership System (OOP)(Created with Pycharm)
+  - [Library Membership System](https://github.com/J-WatS13/LibraryMembershipSystem/tree/main)
 <h2>Cisco Networking Academy Projects (Python)</h2>
 - <b>A turn-based Tic Tac Toe game against a simple computer opponent</b>
 
