@@ -12,6 +12,8 @@
   - [Higher Or Lower](https://github.com/J-WatS13/HigherOrLower-Game/tree/main)
 - <b>Library Membership System (OOP)(Created with Pycharm)
   - [Library Membership System](https://github.com/J-WatS13/LibraryMembershipSystem/tree/main)
+- <b>Game Inventory System (OOP)(Created with Pycharm)
+  - [Game Inventory System](https://github.com/J-WatS13/GameInventorySystem/tree/main)
 <h2>Cisco Networking Academy Projects (Python)</h2>
 - <b>A turn-based Tic Tac Toe game against a simple computer opponent</b>
 
