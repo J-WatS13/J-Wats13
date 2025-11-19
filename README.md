@@ -2,7 +2,7 @@
 <h1>Hi, I'm Jack Watson! <br/><a </a> Jack's Portfolio!</a></h1>
 
 <h2>Cloud computing and cybersecurity Foundation degree projects:</h2>
-<b>A text adventure game, Rock Paper Scissors and Higher or lower all built with python in Pycharm to stregthen my programming skills</b>
+<b>A text adventure game, Rock Paper Scissors and Higher or lower and two OOP projects all built with python in Pycharm to stregthen my programming skills</b>
 
 - <b>Text Adventure Game (Created with Pycharm)</b>
   - [Belfast Zoo](https://github.com/J-WatS13/TextBasedAdventureGame)
